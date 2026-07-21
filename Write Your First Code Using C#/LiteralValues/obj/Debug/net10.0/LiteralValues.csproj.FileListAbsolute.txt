@@ -1,0 +1,14 @@
+D:\Cursos\C#\Csharp_Foundational\Write Your First Code Using C#\LiteralValues\bin\Debug\net10.0\LiteralValues.exe
+D:\Cursos\C#\Csharp_Foundational\Write Your First Code Using C#\LiteralValues\bin\Debug\net10.0\LiteralValues.deps.json
+D:\Cursos\C#\Csharp_Foundational\Write Your First Code Using C#\LiteralValues\bin\Debug\net10.0\LiteralValues.runtimeconfig.json
+D:\Cursos\C#\Csharp_Foundational\Write Your First Code Using C#\LiteralValues\bin\Debug\net10.0\LiteralValues.dll
+D:\Cursos\C#\Csharp_Foundational\Write Your First Code Using C#\LiteralValues\bin\Debug\net10.0\LiteralValues.pdb
+D:\Cursos\C#\Csharp_Foundational\Write Your First Code Using C#\LiteralValues\obj\Debug\net10.0\LiteralValues.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C#\Csharp_Foundational\Write Your First Code Using C#\LiteralValues\obj\Debug\net10.0\LiteralValues.AssemblyInfoInputs.cache
+D:\Cursos\C#\Csharp_Foundational\Write Your First Code Using C#\LiteralValues\obj\Debug\net10.0\LiteralValues.AssemblyInfo.cs
+D:\Cursos\C#\Csharp_Foundational\Write Your First Code Using C#\LiteralValues\obj\Debug\net10.0\LiteralValues.csproj.CoreCompileInputs.cache
+D:\Cursos\C#\Csharp_Foundational\Write Your First Code Using C#\LiteralValues\obj\Debug\net10.0\LiteralValues.dll
+D:\Cursos\C#\Csharp_Foundational\Write Your First Code Using C#\LiteralValues\obj\Debug\net10.0\refint\LiteralValues.dll
+D:\Cursos\C#\Csharp_Foundational\Write Your First Code Using C#\LiteralValues\obj\Debug\net10.0\LiteralValues.pdb
+D:\Cursos\C#\Csharp_Foundational\Write Your First Code Using C#\LiteralValues\obj\Debug\net10.0\LiteralValues.genruntimeconfig.cache
+D:\Cursos\C#\Csharp_Foundational\Write Your First Code Using C#\LiteralValues\obj\Debug\net10.0\ref\LiteralValues.dll
