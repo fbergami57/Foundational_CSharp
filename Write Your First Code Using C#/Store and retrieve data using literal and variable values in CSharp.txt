@@ -436,3 +436,22 @@ Whether you get stuck and need to peek at the solution or you finish successfull
 
 ==================================
 Unit 7 of 9
+
+Review the solution
+Completed
+100 XP
+3 minutes
+The following code is one possible solution for the challenge from the previous unit.
+	
+	C#
+	string name = "Bob";
+	int messages = 3;
+	decimal temperature = 34.4m;
+
+	Console.Write("Hello, ");
+	Console.Write(name);
+	Console.Write("! You have ");
+	Console.Write(messages);
+	Console.Write(" messages in your inbox. The temperature is ");
+	Console.Write(temperature);
+	Console.Write(" celsius.");
