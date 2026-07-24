@@ -1,0 +1,15 @@
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\challenge\challenge\bin\Debug\net10.0\challenge.exe
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\challenge\challenge\bin\Debug\net10.0\challenge.deps.json
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\challenge\challenge\bin\Debug\net10.0\challenge.runtimeconfig.json
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\challenge\challenge\bin\Debug\net10.0\challenge.dll
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\challenge\challenge\bin\Debug\net10.0\challenge.pdb
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\challenge\challenge\obj\Debug\net10.0\challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\challenge\challenge\obj\Debug\net10.0\challenge.AssemblyInfoInputs.cache
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\challenge\challenge\obj\Debug\net10.0\challenge.AssemblyInfo.cs
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\challenge\challenge\obj\Debug\net10.0\challenge.csproj.CoreCompileInputs.cache
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\challenge\challenge\obj\Debug\net10.0\challenge.sourcelink.json
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\challenge\challenge\obj\Debug\net10.0\challenge.dll
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\challenge\challenge\obj\Debug\net10.0\refint\challenge.dll
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\challenge\challenge\obj\Debug\net10.0\challenge.pdb
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\challenge\challenge\obj\Debug\net10.0\challenge.genruntimeconfig.cache
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\challenge\challenge\obj\Debug\net10.0\ref\challenge.dll
