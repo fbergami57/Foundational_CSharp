@@ -8,3 +8,5 @@ Console.WriteLine(firstName);
 firstName = "MyName";
 Console.WriteLine(firstName);
 
+string firstName3 = "Bergami";
+Console.WriteLine(firstName3);
