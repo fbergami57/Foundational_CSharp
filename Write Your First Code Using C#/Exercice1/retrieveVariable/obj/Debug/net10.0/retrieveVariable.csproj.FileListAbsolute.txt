@@ -1,0 +1,15 @@
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\Exercice1\retrieveVariable\bin\Debug\net10.0\retrieveVariable.exe
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\Exercice1\retrieveVariable\bin\Debug\net10.0\retrieveVariable.deps.json
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\Exercice1\retrieveVariable\bin\Debug\net10.0\retrieveVariable.runtimeconfig.json
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\Exercice1\retrieveVariable\bin\Debug\net10.0\retrieveVariable.dll
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\Exercice1\retrieveVariable\bin\Debug\net10.0\retrieveVariable.pdb
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\Exercice1\retrieveVariable\obj\Debug\net10.0\retrieveVariable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\Exercice1\retrieveVariable\obj\Debug\net10.0\retrieveVariable.AssemblyInfoInputs.cache
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\Exercice1\retrieveVariable\obj\Debug\net10.0\retrieveVariable.AssemblyInfo.cs
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\Exercice1\retrieveVariable\obj\Debug\net10.0\retrieveVariable.csproj.CoreCompileInputs.cache
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\Exercice1\retrieveVariable\obj\Debug\net10.0\retrieveVariable.sourcelink.json
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\Exercice1\retrieveVariable\obj\Debug\net10.0\retrieveVariable.dll
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\Exercice1\retrieveVariable\obj\Debug\net10.0\refint\retrieveVariable.dll
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\Exercice1\retrieveVariable\obj\Debug\net10.0\retrieveVariable.pdb
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\Exercice1\retrieveVariable\obj\Debug\net10.0\retrieveVariable.genruntimeconfig.cache
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\Exercice1\retrieveVariable\obj\Debug\net10.0\ref\retrieveVariable.dll

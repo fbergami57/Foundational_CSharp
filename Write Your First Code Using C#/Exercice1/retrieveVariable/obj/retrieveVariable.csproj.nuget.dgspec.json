@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\Variables\\variables\\variables.csproj": {}
+    "C:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\Exercice1\\retrieveVariable\\retrieveVariable.csproj": {}
   },
   "projects": {
-    "C:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\Variables\\variables\\variables.csproj": {
+    "C:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\Exercice1\\retrieveVariable\\retrieveVariable.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\Variables\\variables\\variables.csproj",
-        "projectName": "variables",
-        "projectPath": "C:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\Variables\\variables\\variables.csproj",
+        "projectUniqueName": "C:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\Exercice1\\retrieveVariable\\retrieveVariable.csproj",
+        "projectName": "retrieveVariable",
+        "projectPath": "C:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\Exercice1\\retrieveVariable\\retrieveVariable.csproj",
         "packagesPath": "C:\\Users\\fabio.bergami\\.nuget\\packages\\",
-        "outputPath": "C:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\Variables\\variables\\obj\\",
+        "outputPath": "C:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\Exercice1\\retrieveVariable\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
