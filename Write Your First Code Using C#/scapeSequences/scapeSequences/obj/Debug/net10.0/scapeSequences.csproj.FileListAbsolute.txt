@@ -1,0 +1,15 @@
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\scapeSequences\scapeSequences\bin\Debug\net10.0\scapeSequences.exe
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\scapeSequences\scapeSequences\bin\Debug\net10.0\scapeSequences.deps.json
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\scapeSequences\scapeSequences\bin\Debug\net10.0\scapeSequences.runtimeconfig.json
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\scapeSequences\scapeSequences\bin\Debug\net10.0\scapeSequences.dll
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\scapeSequences\scapeSequences\bin\Debug\net10.0\scapeSequences.pdb
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\scapeSequences\scapeSequences\obj\Debug\net10.0\scapeSequences.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\scapeSequences\scapeSequences\obj\Debug\net10.0\scapeSequences.AssemblyInfoInputs.cache
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\scapeSequences\scapeSequences\obj\Debug\net10.0\scapeSequences.AssemblyInfo.cs
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\scapeSequences\scapeSequences\obj\Debug\net10.0\scapeSequences.csproj.CoreCompileInputs.cache
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\scapeSequences\scapeSequences\obj\Debug\net10.0\scapeSequences.sourcelink.json
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\scapeSequences\scapeSequences\obj\Debug\net10.0\scapeSequences.dll
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\scapeSequences\scapeSequences\obj\Debug\net10.0\refint\scapeSequences.dll
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\scapeSequences\scapeSequences\obj\Debug\net10.0\scapeSequences.pdb
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\scapeSequences\scapeSequences\obj\Debug\net10.0\scapeSequences.genruntimeconfig.cache
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\scapeSequences\scapeSequences\obj\Debug\net10.0\ref\scapeSequences.dll

@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\Exercice1\\retrieveVariable\\retrieveVariable.csproj": {}
+    "D:\\Cursos\\C#\\Foundational_CSharp\\Write Your First Code Using C#\\Exercice1\\retrieveVariable\\retrieveVariable.csproj": {}
   },
   "projects": {
-    "c:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\Exercice1\\retrieveVariable\\retrieveVariable.csproj": {
+    "D:\\Cursos\\C#\\Foundational_CSharp\\Write Your First Code Using C#\\Exercice1\\retrieveVariable\\retrieveVariable.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\Exercice1\\retrieveVariable\\retrieveVariable.csproj",
+        "projectUniqueName": "D:\\Cursos\\C#\\Foundational_CSharp\\Write Your First Code Using C#\\Exercice1\\retrieveVariable\\retrieveVariable.csproj",
         "projectName": "retrieveVariable",
-        "projectPath": "c:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\Exercice1\\retrieveVariable\\retrieveVariable.csproj",
-        "packagesPath": "C:\\Users\\fabio.bergami\\.nuget\\packages\\",
-        "outputPath": "c:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\Exercice1\\retrieveVariable\\obj\\",
+        "projectPath": "D:\\Cursos\\C#\\Foundational_CSharp\\Write Your First Code Using C#\\Exercice1\\retrieveVariable\\retrieveVariable.csproj",
+        "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
+        "outputPath": "D:\\Cursos\\C#\\Foundational_CSharp\\Write Your First Code Using C#\\Exercice1\\retrieveVariable\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\fabio.bergami\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\fabio\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -29,8 +29,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://unimedfesp.pkgs.visualstudio.com/_packaging/fesp/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
@@ -71,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.302/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

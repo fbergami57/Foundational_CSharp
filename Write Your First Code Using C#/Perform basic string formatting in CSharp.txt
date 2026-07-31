@@ -38,3 +38,18 @@ In this exercise, you'll learn different techniques to display special character
 
 A C# code editor is available to use directly in the browser: C# Code Editor. This editor provides a lightweight environment for writing, running, and testing C# code without needing to install any software on your local computer.
 
+Character escape sequences
+An escape character sequence is an instruction to the runtime to insert a special character that will affect the output of your string. In C#, the escape character sequence begins with a backslash \ followed by the character you're escaping. For example, the \n sequence will add a new line, and a \t sequence will add a tab.
+
+The following code uses escape character sequences to add newlines and tabs:
+
+	C#
+	Console.WriteLine("Hello\nWorld!");
+	Console.WriteLine("Hello\tWorld!");
+
+If you run the code, you'll see the following output:
+
+	Output
+	Hello
+	World!
+	Hello   World!
