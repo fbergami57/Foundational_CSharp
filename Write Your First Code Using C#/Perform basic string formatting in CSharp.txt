@@ -211,4 +211,9 @@ Use the \u plus a four-character code to represent Unicode characters (UTF-16) i
 Unicode characters may not print correctly depending on the application.
 ==================================
 Unit 3 of 8
-	
+
+Exercise - Combine strings using string concatenation
+Completed
+100 XP
+10 minutes
+Often, you'll need to combine data from many different sources, including literal strings and variables containing both text and numeric data. In this unit, you'll use string concatenation to combine two or more values into a new string.	

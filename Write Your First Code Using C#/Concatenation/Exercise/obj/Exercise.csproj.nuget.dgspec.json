@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\ScapeSequences\\scapeSequences\\scapeSequences.csproj": {}
+    "C:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\Concatenation\\Exercise\\Exercise.csproj": {}
   },
   "projects": {
-    "C:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\ScapeSequences\\scapeSequences\\scapeSequences.csproj": {
+    "C:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\Concatenation\\Exercise\\Exercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\ScapeSequences\\scapeSequences\\scapeSequences.csproj",
-        "projectName": "scapeSequences",
-        "projectPath": "C:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\ScapeSequences\\scapeSequences\\scapeSequences.csproj",
+        "projectUniqueName": "C:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\Concatenation\\Exercise\\Exercise.csproj",
+        "projectName": "Exercise",
+        "projectPath": "C:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\Concatenation\\Exercise\\Exercise.csproj",
         "packagesPath": "C:\\Users\\fabio.bergami\\.nuget\\packages\\",
-        "outputPath": "C:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\ScapeSequences\\scapeSequences\\obj\\",
+        "outputPath": "C:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\Concatenation\\Exercise\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
