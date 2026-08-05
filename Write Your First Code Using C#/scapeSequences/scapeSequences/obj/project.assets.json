@@ -8,25 +8,25 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\fabio.bergami\\.nuget\\packages\\": {},
+    "C:\\Users\\fabio\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\scapeSequences\\scapeSequences\\scapeSequences.csproj",
+      "projectUniqueName": "D:\\Cursos\\C#\\Foundational_CSharp\\Write Your First Code Using C#\\scapeSequences\\scapeSequences\\scapeSequences.csproj",
       "projectName": "scapeSequences",
-      "projectPath": "C:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\scapeSequences\\scapeSequences\\scapeSequences.csproj",
-      "packagesPath": "C:\\Users\\fabio.bergami\\.nuget\\packages\\",
-      "outputPath": "C:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\scapeSequences\\scapeSequences\\obj\\",
+      "projectPath": "D:\\Cursos\\C#\\Foundational_CSharp\\Write Your First Code Using C#\\scapeSequences\\scapeSequences\\scapeSequences.csproj",
+      "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
+      "outputPath": "D:\\Cursos\\C#\\Foundational_CSharp\\Write Your First Code Using C#\\scapeSequences\\scapeSequences\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\fabio.bergami\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\fabio\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -37,8 +37,7 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://unimedfesp.pkgs.visualstudio.com/_packaging/fesp/nuget/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net10.0": {
