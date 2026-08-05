@@ -1,0 +1,15 @@
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\Interpolation\Interpolation\bin\Debug\net10.0\Interpolation.exe
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\Interpolation\Interpolation\bin\Debug\net10.0\Interpolation.deps.json
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\Interpolation\Interpolation\bin\Debug\net10.0\Interpolation.runtimeconfig.json
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\Interpolation\Interpolation\bin\Debug\net10.0\Interpolation.dll
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\Interpolation\Interpolation\bin\Debug\net10.0\Interpolation.pdb
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\Interpolation\Interpolation\obj\Debug\net10.0\Interpolation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\Interpolation\Interpolation\obj\Debug\net10.0\Interpolation.AssemblyInfoInputs.cache
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\Interpolation\Interpolation\obj\Debug\net10.0\Interpolation.AssemblyInfo.cs
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\Interpolation\Interpolation\obj\Debug\net10.0\Interpolation.csproj.CoreCompileInputs.cache
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\Interpolation\Interpolation\obj\Debug\net10.0\Interpolation.sourcelink.json
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\Interpolation\Interpolation\obj\Debug\net10.0\Interpolation.dll
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\Interpolation\Interpolation\obj\Debug\net10.0\refint\Interpolation.dll
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\Interpolation\Interpolation\obj\Debug\net10.0\Interpolation.pdb
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\Interpolation\Interpolation\obj\Debug\net10.0\Interpolation.genruntimeconfig.cache
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\Interpolation\Interpolation\obj\Debug\net10.0\ref\Interpolation.dll
