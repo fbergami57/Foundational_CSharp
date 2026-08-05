@@ -22,7 +22,7 @@ Console.Write(@"c:\invoices");
 
 /*kon'nichiwa World*/
 Console.WriteLine("\u3053\u3093\u306B\u3061\u306F World!");
-
+Console.WriteLine("\n");
 
 // To generate Japanese invoices:
 // Nihon no seikyū-sho o seisei suru ni wa:
