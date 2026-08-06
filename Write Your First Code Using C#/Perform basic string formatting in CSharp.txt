@@ -380,3 +380,102 @@ Challenge: Format and display instructions
 		string projectName = "ACME";
 
 		string russianMessage = "\u041f\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0440\u0443\u0441\u0441\u043a\u0438\u0439 \u0432\u044b\u0432\u043e\u0434";
+		
+The projectName variable will be used twice in the desired output.
+
+The russianMessage variable contains the message "View Russian output" in Russian. You must use this variable in your code that prints the message.
+
+You may not change these two lines of code, but you can add code above and below each line. You must use these two lines of code to form the desired output.
+
+	1.You may only use either the Console.WriteLine() or the Console.Write() method twice.
+	
+In other words, to complete this challenge, you can only create two instructions that actually print output to the console. If you need to print additional new lines or add any formatting, you must use what you've learned in this module to accomplish it.
+
+	1.Use character escape sequences, verbatim strings, unicode, and string interpolation to generate the output.
+To complete this challenge, your code must produce the following output.
+
+	Output
+	View English output:
+		c:\Exercise\ACME\data.txt
+
+	Посмотреть русский вывод:
+		c:\Exercise\ACME\ru-RU\data.txt
+
+Take note of the new lines, the tabs, and how the two mandatory lines of code are used in the output.
+
+Whether you get stuck and need to peek at the solution, or you finish successfully, continue on to view a solution to this challenge.
+
+==================================
+Unit 6 of 8
+
+Review the solution
+Completed
+100 XP
+5 minutes
+The following code is one possible solution for the challenge from the previous unit.
+
+	C#
+	string projectName = "ACME";
+	string englishLocation = $@"c:\Exercise\{projectName}\data.txt";
+	Console.WriteLine($"View English output:\n\t{englishLocation}\n");
+
+	string russianMessage = "\u041f\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0440\u0443\u0441\u0441\u043a\u0438\u0439 \u0432\u044b\u0432\u043e\u0434";
+	string russianLocation = $@"c:\Exercise\{projectName}\ru-RU\data.txt";
+	Console.WriteLine($"{russianMessage}:\n\t{russianLocation}\n");
+
+This code represents "one possible solution". You may have some variations in naming variables or in the character escape sequences you used. You might use Console.Write instead of Console.WriteLine, or you might combine the values instead of using several variables.
+
+However, as long as your code follows the instructions from the challenge and produces the desired output, then congratulations! Continue to the knowledge check in the next unit.
+
+ Important
+
+If you had trouble completing this challenge, maybe you should review the previous units before you continue on.
+==================================
+Unit 7 of 8
+
+Module assessment
+Completed
+200 XP
+3 minutes
+
+1. Which of the following escape sequences should be used to add double quotes to a literal string in C# code?
+
+	'\q'
+	'\''
+	'\"'***
+	
+2. Which of the following lines of code correctly uses string interpolation assuming that the variable value is a string?
+
+	'Console.WriteLine(@"My value: {value}");'
+	'Console.WriteLine($"My value: {value}");'***
+	'Console.WriteLine(@"My value: [value]");'
+
+3. Unicode characters were embedded in the C# strings for a console application to present a greeting message in Thai. However, the message is only displayed as question mark characters. What is a possible cause?
+
+	A missing \u escape sequence for Unicode characters.
+	The wrong Unicode characters were used.
+	The user's console doesn't support Unicode characters.***
+	
+4. Which of the following lines of code appends a single \ to the string directory?
+
+	'directory = directory + "\";'
+	'directory = directory + '\';'
+	'directory = directory + @"\";'***
+==================================
+Unit 8 of 8
+
+Summary
+Completed
+100 XP
+3 minutes
+Your goal was to write code that formats strings with special characters, such as double quotes, new lines, tabs, and other white space, as well as unicode characters. You also combined strings using two different techniques.
+
+Using character escape sequences, you added special characters in your literal strings by either using special escaping sequences or using verbatim strings. You added Unicode characters from other language sets like Japanese Kanji and Russian Cyrillic in your literal strings. You used simple string concatenation with the + symbol, and upgraded to string interpolation for combining values into a string template.
+
+Without the ability to format your output, you would be severely restricted in what kinds of information you could present to the user. However, now you can provide your users with sophisticated instructions and feedback with a wide variety of formatting, symbols, and languages.
+
+Get a free verified certification
+Microsoft and freeCodeCamp.org offer a training and certification combo on foundational C#. By completing this Learn module, you're already started. Explore freeCodeCamp's Foundational C# with Microsoft certification here: https://aka.ms/csharp-certification.
+
+
+
