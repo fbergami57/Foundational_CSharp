@@ -1,0 +1,15 @@
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\ChallengeUnicode\ChallengeUnicode\bin\Debug\net10.0\ChallengeUnicode.exe
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\ChallengeUnicode\ChallengeUnicode\bin\Debug\net10.0\ChallengeUnicode.deps.json
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\ChallengeUnicode\ChallengeUnicode\bin\Debug\net10.0\ChallengeUnicode.runtimeconfig.json
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\ChallengeUnicode\ChallengeUnicode\bin\Debug\net10.0\ChallengeUnicode.dll
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\ChallengeUnicode\ChallengeUnicode\bin\Debug\net10.0\ChallengeUnicode.pdb
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\ChallengeUnicode\ChallengeUnicode\obj\Debug\net10.0\ChallengeUnicode.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\ChallengeUnicode\ChallengeUnicode\obj\Debug\net10.0\ChallengeUnicode.AssemblyInfoInputs.cache
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\ChallengeUnicode\ChallengeUnicode\obj\Debug\net10.0\ChallengeUnicode.AssemblyInfo.cs
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\ChallengeUnicode\ChallengeUnicode\obj\Debug\net10.0\ChallengeUnicode.csproj.CoreCompileInputs.cache
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\ChallengeUnicode\ChallengeUnicode\obj\Debug\net10.0\ChallengeUnicode.sourcelink.json
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\ChallengeUnicode\ChallengeUnicode\obj\Debug\net10.0\ChallengeUnicode.dll
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\ChallengeUnicode\ChallengeUnicode\obj\Debug\net10.0\refint\ChallengeUnicode.dll
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\ChallengeUnicode\ChallengeUnicode\obj\Debug\net10.0\ChallengeUnicode.pdb
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\ChallengeUnicode\ChallengeUnicode\obj\Debug\net10.0\ChallengeUnicode.genruntimeconfig.cache
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\ChallengeUnicode\ChallengeUnicode\obj\Debug\net10.0\ref\ChallengeUnicode.dll
