@@ -120,3 +120,34 @@ Now that you understand the basics of addition and more importantly, implicit ty
 
 Perform basic math operations
 Write code to perform addition, subtraction, multiplication, and division with integers
+
+	1.Select all of the code you wrote previously in the C# https://microsoftlearning.github.io/c-sharp-minor and press Delete or Backspace to delete it.
+	
+	2.Enter the following code in the C# Code Editor:
+
+	C#
+	int sum = 7 + 5;
+	int difference = 7 - 5;
+	int product = 7 * 5;
+	int quotient = 7 / 5;
+
+	Console.WriteLine("Sum: " + sum);
+	Console.WriteLine("Difference: " + difference);
+	Console.WriteLine("Product: " + product);
+	Console.WriteLine("Quotient: " + quotient);
+	
+	3.Run the code. You should see the following output:
+	
+	Output
+	Sum: 12
+	Difference: 2
+	Product: 35
+	Quotient: 1
+
+As you can see:
+
+	+ is the addition operator
+	- is the subtraction operator
+	* is the multiplication operator
+	/ is the division operator
+

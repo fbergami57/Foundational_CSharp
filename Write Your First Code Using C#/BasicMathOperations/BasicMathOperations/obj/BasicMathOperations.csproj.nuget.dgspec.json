@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\BasicMathOperations\\BasicMathOperations\\BasicMathOperations.csproj": {}
+    "C:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\BasicMathOperations\\BasicMathOperations\\BasicMathOperations.csproj": {}
   },
   "projects": {
-    "c:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\BasicMathOperations\\BasicMathOperations\\BasicMathOperations.csproj": {
+    "C:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\BasicMathOperations\\BasicMathOperations\\BasicMathOperations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\BasicMathOperations\\BasicMathOperations\\BasicMathOperations.csproj",
+        "projectUniqueName": "C:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\BasicMathOperations\\BasicMathOperations\\BasicMathOperations.csproj",
         "projectName": "BasicMathOperations",
-        "projectPath": "c:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\BasicMathOperations\\BasicMathOperations\\BasicMathOperations.csproj",
+        "projectPath": "C:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\BasicMathOperations\\BasicMathOperations\\BasicMathOperations.csproj",
         "packagesPath": "C:\\Users\\fabio.bergami\\.nuget\\packages\\",
-        "outputPath": "c:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\BasicMathOperations\\BasicMathOperations\\obj\\",
+        "outputPath": "C:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\BasicMathOperations\\BasicMathOperations\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
