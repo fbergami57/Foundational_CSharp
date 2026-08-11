@@ -15,9 +15,6 @@ Console.WriteLine($"Decimal quotient: {decimalQuotient}");
 
 Console.WriteLine();
 
-decimal decimalQuotient1 = 7 / 5.0m;
-decimal decimalQuotient2 = 7.0m / 5.0m;
-
 Console.WriteLine();
 
 //int decimalQuotientA = 7 / 5.0m;
