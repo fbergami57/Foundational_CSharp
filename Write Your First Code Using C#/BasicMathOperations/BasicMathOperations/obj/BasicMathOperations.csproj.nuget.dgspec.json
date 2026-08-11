@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\BasicMathOperations\\BasicMathOperations\\BasicMathOperations.csproj": {}
+    "d:\\Cursos\\C#\\Foundational_CSharp\\Write Your First Code Using C#\\BasicMathOperations\\BasicMathOperations\\BasicMathOperations.csproj": {}
   },
   "projects": {
-    "c:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\BasicMathOperations\\BasicMathOperations\\BasicMathOperations.csproj": {
+    "d:\\Cursos\\C#\\Foundational_CSharp\\Write Your First Code Using C#\\BasicMathOperations\\BasicMathOperations\\BasicMathOperations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\BasicMathOperations\\BasicMathOperations\\BasicMathOperations.csproj",
+        "projectUniqueName": "d:\\Cursos\\C#\\Foundational_CSharp\\Write Your First Code Using C#\\BasicMathOperations\\BasicMathOperations\\BasicMathOperations.csproj",
         "projectName": "BasicMathOperations",
-        "projectPath": "c:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\BasicMathOperations\\BasicMathOperations\\BasicMathOperations.csproj",
-        "packagesPath": "C:\\Users\\fabio.bergami\\.nuget\\packages\\",
-        "outputPath": "c:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\BasicMathOperations\\BasicMathOperations\\obj\\",
+        "projectPath": "d:\\Cursos\\C#\\Foundational_CSharp\\Write Your First Code Using C#\\BasicMathOperations\\BasicMathOperations\\BasicMathOperations.csproj",
+        "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
+        "outputPath": "d:\\Cursos\\C#\\Foundational_CSharp\\Write Your First Code Using C#\\BasicMathOperations\\BasicMathOperations\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\fabio.bergami\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\fabio\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -29,8 +29,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://unimedfesp.pkgs.visualstudio.com/_packaging/fesp/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
