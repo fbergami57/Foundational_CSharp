@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ImplicitDataConvertion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d91e995b97cc1cdce3ec7ab1253f9d5843ae36d3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9913255b67a49ce8794d938895ccc6f030c1b0ae")]
 [assembly: System.Reflection.AssemblyProductAttribute("ImplicitDataConvertion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ImplicitDataConvertion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

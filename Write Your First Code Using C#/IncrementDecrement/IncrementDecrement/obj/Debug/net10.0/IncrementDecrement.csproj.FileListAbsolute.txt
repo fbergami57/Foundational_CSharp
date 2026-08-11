@@ -1,0 +1,15 @@
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\IncrementDecrement\IncrementDecrement\bin\Debug\net10.0\IncrementDecrement.exe
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\IncrementDecrement\IncrementDecrement\bin\Debug\net10.0\IncrementDecrement.deps.json
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\IncrementDecrement\IncrementDecrement\bin\Debug\net10.0\IncrementDecrement.runtimeconfig.json
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\IncrementDecrement\IncrementDecrement\bin\Debug\net10.0\IncrementDecrement.dll
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\IncrementDecrement\IncrementDecrement\bin\Debug\net10.0\IncrementDecrement.pdb
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\IncrementDecrement\IncrementDecrement\obj\Debug\net10.0\IncrementDecrement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\IncrementDecrement\IncrementDecrement\obj\Debug\net10.0\IncrementDecrement.AssemblyInfoInputs.cache
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\IncrementDecrement\IncrementDecrement\obj\Debug\net10.0\IncrementDecrement.AssemblyInfo.cs
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\IncrementDecrement\IncrementDecrement\obj\Debug\net10.0\IncrementDecrement.csproj.CoreCompileInputs.cache
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\IncrementDecrement\IncrementDecrement\obj\Debug\net10.0\IncrementDecrement.sourcelink.json
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\IncrementDecrement\IncrementDecrement\obj\Debug\net10.0\IncrementDecrement.dll
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\IncrementDecrement\IncrementDecrement\obj\Debug\net10.0\refint\IncrementDecrement.dll
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\IncrementDecrement\IncrementDecrement\obj\Debug\net10.0\IncrementDecrement.pdb
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\IncrementDecrement\IncrementDecrement\obj\Debug\net10.0\IncrementDecrement.genruntimeconfig.cache
+D:\Cursos\C#\Foundational_CSharp\Write Your First Code Using C#\IncrementDecrement\IncrementDecrement\obj\Debug\net10.0\ref\IncrementDecrement.dll
