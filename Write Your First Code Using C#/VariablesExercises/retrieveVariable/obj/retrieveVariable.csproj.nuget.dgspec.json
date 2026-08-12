@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\ChallengeDegrees\\ChallengeDegrees\\ChallengeDegrees.csproj": {}
+    "c:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\VariablesExercises\\retrieveVariable\\retrieveVariable.csproj": {}
   },
   "projects": {
-    "c:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\ChallengeDegrees\\ChallengeDegrees\\ChallengeDegrees.csproj": {
+    "c:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\VariablesExercises\\retrieveVariable\\retrieveVariable.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\ChallengeDegrees\\ChallengeDegrees\\ChallengeDegrees.csproj",
-        "projectName": "ChallengeDegrees",
-        "projectPath": "c:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\ChallengeDegrees\\ChallengeDegrees\\ChallengeDegrees.csproj",
+        "projectUniqueName": "c:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\VariablesExercises\\retrieveVariable\\retrieveVariable.csproj",
+        "projectName": "retrieveVariable",
+        "projectPath": "c:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\VariablesExercises\\retrieveVariable\\retrieveVariable.csproj",
         "packagesPath": "C:\\Users\\fabio.bergami\\.nuget\\packages\\",
-        "outputPath": "c:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\ChallengeDegrees\\ChallengeDegrees\\obj\\",
+        "outputPath": "c:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\VariablesExercises\\retrieveVariable\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
