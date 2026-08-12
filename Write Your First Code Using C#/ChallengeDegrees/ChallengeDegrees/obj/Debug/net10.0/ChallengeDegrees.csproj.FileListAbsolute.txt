@@ -1,0 +1,15 @@
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\ChallengeDegrees\ChallengeDegrees\bin\Debug\net10.0\ChallengeDegrees.exe
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\ChallengeDegrees\ChallengeDegrees\bin\Debug\net10.0\ChallengeDegrees.deps.json
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\ChallengeDegrees\ChallengeDegrees\bin\Debug\net10.0\ChallengeDegrees.runtimeconfig.json
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\ChallengeDegrees\ChallengeDegrees\bin\Debug\net10.0\ChallengeDegrees.dll
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\ChallengeDegrees\ChallengeDegrees\bin\Debug\net10.0\ChallengeDegrees.pdb
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\ChallengeDegrees\ChallengeDegrees\obj\Debug\net10.0\ChallengeDegrees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\ChallengeDegrees\ChallengeDegrees\obj\Debug\net10.0\ChallengeDegrees.AssemblyInfoInputs.cache
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\ChallengeDegrees\ChallengeDegrees\obj\Debug\net10.0\ChallengeDegrees.AssemblyInfo.cs
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\ChallengeDegrees\ChallengeDegrees\obj\Debug\net10.0\ChallengeDegrees.csproj.CoreCompileInputs.cache
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\ChallengeDegrees\ChallengeDegrees\obj\Debug\net10.0\ChallengeDegrees.sourcelink.json
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\ChallengeDegrees\ChallengeDegrees\obj\Debug\net10.0\ChallengeDegrees.dll
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\ChallengeDegrees\ChallengeDegrees\obj\Debug\net10.0\refint\ChallengeDegrees.dll
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\ChallengeDegrees\ChallengeDegrees\obj\Debug\net10.0\ChallengeDegrees.pdb
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\ChallengeDegrees\ChallengeDegrees\obj\Debug\net10.0\ChallengeDegrees.genruntimeconfig.cache
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\ChallengeDegrees\ChallengeDegrees\obj\Debug\net10.0\ref\ChallengeDegrees.dll

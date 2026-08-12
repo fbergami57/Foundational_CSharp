@@ -402,3 +402,79 @@ Challenge: Calculate Celsius given the current temperature in Fahrenheit
 		C#
 		int fahrenheit = 94;
 	
+	3.To convert temperatures in degrees Fahrenheit to Celsius, first subtract 32, then multiply by five ninths (5 / 9).
+	
+	4.Display the result of the temperature conversion in a formatted message
+	
+	Combine the variables with literal strings passed into a series of Console.WriteLine() commands to form the complete message.
+	
+	5.When you're finished, the message should resemble the following output:
+	
+		Output
+		The temperature is 34.444444444444444444444444447 Celsius.
+	
+	Admittedly, it is preferred to not see so many values after the decimal point. Ideally the value would be formatted to a single value after the decimal point: 34.4.
+	
+	Whether you get stuck and need to peek at the solution or you finish successfully, continue to view a solution to this challenge.
+==================================
+Unit 6 of 8
+
+Review the solution to convert Fahrenheit to Celsius
+100 XP
+3 minutes
+The following code is one possible solution for the challenge from the previous unit:
+
+	C#
+	int fahrenheit = 94;
+	decimal celsius = (fahrenheit - 32m) * (5m / 9m);
+	Console.WriteLine("The temperature is " + celsius + " Celsius.");
+
+This code is "one possible solution" among many possible solutions.
+
+If you were successful, congratulations! Continue to the knowledge check in the next unit.
+
+ Important
+
+If you had trouble completing this challenge, maybe you should review the previous units before you continue on.
+==================================
+Unit 7 of 8
+
+Module assessment
+200 XP
+3 minutes
+Check your knowledge
+
+1. Which of the following lines of code will output the text Windows 11?
+
+	Console.WriteLine("Windows " + 7 + 4);
+	Console.WriteLine($"Windows {1 + 1}");
+	Console.Write("Windows " + 1 + 1);***
+	
+2. What is the value of the following result? int result = 3 + 1 * 5 / 2;
+
+	10
+	5***
+	6
+	
+3. What will be the result of the following line of code? Console.WriteLine(5 / 10);
+
+	0.5
+	0***
+	1
+	
+4. Which of the following lines of code uses the addition assignment operator?
+
+	value += 5;***
+	value++;
+	value = value + 5;
+==================================
+Unit 8 of 8
+
+Summary
+Completed
+100 XP
+1 minute
+Your goal was to perform basic operations on string and numeric data. As a coding challenge, you converted a value from one unit of measure (Fahrenheit) to another (Celsius) and displayed the result in a formatted message.
+
+You used various operators to perform basic string and mathematical operations. You learned how some symbols are reused (overloaded) as different operators, depending on the context. You learned how the data types of the operands influence the meaning of the operators. Finally, you learned how to change the data type of a value using the cast operator.
+
