@@ -344,3 +344,61 @@ Use the increment operator before and after the value
 		Console.WriteLine("Third: " + value);
 		Console.WriteLine("Fourth: " + (++value));
 		
+	
+	2.Run the code. You should see the following output:
+	
+		First: 2
+		Second: 2
+		Third: 3
+		Fourth: 4
+
+Notice this line of code:
+	
+	C#
+	Console.WriteLine($"Second: {value++}");
+
+There's two steps to this line:
+
+	1.Retrieve the current value of the variable value and use that in the string interpolation operation.
+	2.Increment the value.
+
+The next line of code confirms that the value was, in fact, incremented.
+	
+	C#
+	Console.WriteLine("Third: " + value);
+
+In contrast, consider the last line of code:
+
+	C#
+	Console.WriteLine("Fourth: " + (++value));
+
+Here, the order of operations is switched because the ++ operator is placed before the operand value.
+
+	1.Increment the value.
+	2.Retrieve the new incremented value of the variable value and use that in the string operation.
+
+While not strictly necessary, you added parenthesis around the expression (++value) to improve readability. Seeing so many + operators next to each other seems like it could be misunderstood by other developers. Stylistic decisions like this are subjective. However, since you'll write the code once but read it many times, you should prioritize readability.
+
+Recap
+Here's what you've learned so far about mathematical operations in C#:
+
+	Use compound assignment operators like +=, -=, *=, ++, and -- to perform a mathematical operation like increment or decrement, then assign the result into the original variable.
+	Increment and decrement operators perform differently depending on whether the operator is before or after the operand.
+==================================
+Unit 5 of 8
+
+Complete the challenge to convert Fahrenheit to Celsius
+Completed
+100 XP
+10 minutes
+In this challenge, you'll write code that will use a formula to convert a temperature from degrees Fahrenheit to Celsius. You'll print the result in a formatted message to the user.
+
+Challenge: Calculate Celsius given the current temperature in Fahrenheit
+
+	1.Select all of the code you wrote previously in the C# Code Editor(https://microsoftlearning.github.io/c-sharp-minor) and press Delete or Backspace to delete it.
+	
+	2.Enter the following code in the C# Code Editor:
+		
+		C#
+		int fahrenheit = 94;
+	

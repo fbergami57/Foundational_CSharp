@@ -1,14 +1,14 @@
 ﻿int value = 0;     // value is now 0.
 value = value + 5; // value is now 5.
 value += 5;        // value is now 10.
-Console.WriteLine(value);
+Console.WriteLine("Value:" + value);
 
 Console.WriteLine();
 
 int value3 = 0;     // value is now 0.
 value3 = value3 + 1; // value is now 1.
 value3++;           // value is now 2.
-Console.WriteLine(value3);
+Console.WriteLine("Value3:" + value3);
 
 Console.WriteLine();
 
