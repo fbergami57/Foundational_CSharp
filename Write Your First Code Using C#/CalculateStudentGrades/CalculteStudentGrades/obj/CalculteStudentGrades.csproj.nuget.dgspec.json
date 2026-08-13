@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\CalculateStudentGrades\\CalculteStudentGrades\\CalculteStudentGrades.csproj": {}
+    "C:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\CalculateStudentGrades\\CalculteStudentGrades\\CalculteStudentGrades.csproj": {}
   },
   "projects": {
-    "c:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\CalculateStudentGrades\\CalculteStudentGrades\\CalculteStudentGrades.csproj": {
+    "C:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\CalculateStudentGrades\\CalculteStudentGrades\\CalculteStudentGrades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\CalculateStudentGrades\\CalculteStudentGrades\\CalculteStudentGrades.csproj",
+        "projectUniqueName": "C:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\CalculateStudentGrades\\CalculteStudentGrades\\CalculteStudentGrades.csproj",
         "projectName": "CalculteStudentGrades",
-        "projectPath": "c:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\CalculateStudentGrades\\CalculteStudentGrades\\CalculteStudentGrades.csproj",
+        "projectPath": "C:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\CalculateStudentGrades\\CalculteStudentGrades\\CalculteStudentGrades.csproj",
         "packagesPath": "C:\\Users\\fabio.bergami\\.nuget\\packages\\",
-        "outputPath": "c:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\CalculateStudentGrades\\CalculteStudentGrades\\obj\\",
+        "outputPath": "C:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\CalculateStudentGrades\\CalculteStudentGrades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

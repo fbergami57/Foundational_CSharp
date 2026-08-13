@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\ChallengeDegrees\\ChallengeDegrees\\ChallengeDegrees.csproj": {}
+    "C:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\ChallengeDegrees\\ChallengeDegrees\\ChallengeDegrees.csproj": {}
   },
   "projects": {
-    "c:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\ChallengeDegrees\\ChallengeDegrees\\ChallengeDegrees.csproj": {
+    "C:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\ChallengeDegrees\\ChallengeDegrees\\ChallengeDegrees.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\ChallengeDegrees\\ChallengeDegrees\\ChallengeDegrees.csproj",
+        "projectUniqueName": "C:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\ChallengeDegrees\\ChallengeDegrees\\ChallengeDegrees.csproj",
         "projectName": "ChallengeDegrees",
-        "projectPath": "c:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\ChallengeDegrees\\ChallengeDegrees\\ChallengeDegrees.csproj",
+        "projectPath": "C:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\ChallengeDegrees\\ChallengeDegrees\\ChallengeDegrees.csproj",
         "packagesPath": "C:\\Users\\fabio.bergami\\.nuget\\packages\\",
-        "outputPath": "c:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\ChallengeDegrees\\ChallengeDegrees\\obj\\",
+        "outputPath": "C:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\ChallengeDegrees\\ChallengeDegrees\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
