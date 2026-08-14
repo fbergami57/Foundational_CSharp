@@ -1,0 +1,15 @@
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\CalculateStudentGrades\CalculateStudentGrade\bin\Debug\net10.0\CalculateStudentGrade.exe
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\CalculateStudentGrades\CalculateStudentGrade\bin\Debug\net10.0\CalculateStudentGrade.deps.json
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\CalculateStudentGrades\CalculateStudentGrade\bin\Debug\net10.0\CalculateStudentGrade.runtimeconfig.json
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\CalculateStudentGrades\CalculateStudentGrade\bin\Debug\net10.0\CalculateStudentGrade.dll
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\CalculateStudentGrades\CalculateStudentGrade\bin\Debug\net10.0\CalculateStudentGrade.pdb
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\CalculateStudentGrades\CalculateStudentGrade\obj\Debug\net10.0\CalculateStudentGrade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\CalculateStudentGrades\CalculateStudentGrade\obj\Debug\net10.0\CalculateStudentGrade.AssemblyInfoInputs.cache
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\CalculateStudentGrades\CalculateStudentGrade\obj\Debug\net10.0\CalculateStudentGrade.AssemblyInfo.cs
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\CalculateStudentGrades\CalculateStudentGrade\obj\Debug\net10.0\CalculateStudentGrade.csproj.CoreCompileInputs.cache
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\CalculateStudentGrades\CalculateStudentGrade\obj\Debug\net10.0\CalculateStudentGrade.sourcelink.json
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\CalculateStudentGrades\CalculateStudentGrade\obj\Debug\net10.0\CalculateStudentGrade.dll
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\CalculateStudentGrades\CalculateStudentGrade\obj\Debug\net10.0\refint\CalculateStudentGrade.dll
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\CalculateStudentGrades\CalculateStudentGrade\obj\Debug\net10.0\CalculateStudentGrade.pdb
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\CalculateStudentGrades\CalculateStudentGrade\obj\Debug\net10.0\CalculateStudentGrade.genruntimeconfig.cache
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\CalculateStudentGrades\CalculateStudentGrade\obj\Debug\net10.0\ref\CalculateStudentGrade.dll
