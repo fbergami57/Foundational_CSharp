@@ -414,4 +414,16 @@ Completed
 10 minutes
 In this exercise, you'll modify the console output from the previous exercise to achieve the reporting format specified by the teacher.
 
+Format the console output
+In this task, you'll update your code to apply the finishing touches to the reported output. You'll start by adding a header row that includes the column labels specified by the teacher. After that, you'll use character escape sequences to add extra padding between the columns of information.
 
+	1.In the C# Code Editor(https://microsoftlearning.github.io/c-sharp-minor), locate the Console.WriteLine() statements that are used to display each student's current class score and letter grade.
+	
+	2.Create a blank code line above the Console.WriteLine() statements.
+	
+		C#
+		Console.WriteLine("Student Grade\n");
+	
+	3.Notice that you're including \n at the end of the text. In the "Perform basic string formatting with C#" module, you learned that the \n escape character sequence will cause a new line to be created. The location of the escape sequence is important. In this case, the \n is at the end of the information that you want to write to the console, so the new line will be added after "Student Grade" is displayed.
+	
+	
