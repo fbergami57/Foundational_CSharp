@@ -51,8 +51,8 @@ Console.WriteLine(" Jeong: " + " \t " + jeongScore);
 Console.WriteLine("--------------------------------------------------");
 
 Console.WriteLine("Average of Grades and Letter Grade");
-Console.WriteLine("Student Grade\n");
-Console.WriteLine("Sophia: " + " \t "  + sophiaScore  + " \t " + " A");
-Console.WriteLine("Nicolas: " + " \t " + nicolasScore + " \t " + " B");
-Console.WriteLine("Zahirah: " + " \t "  + zahirahScore + " \t " + " B");
-Console.WriteLine(" Jeong: " + " \t "  + jeongScore + " \t " + " A");
+Console.WriteLine("Student\t\tGrade\n");
+Console.WriteLine("Sophia:\t\t "  + sophiaScore  + " \tA");
+Console.WriteLine("Nicolas:\t " + nicolasScore + " \tB");
+Console.WriteLine("Zahirah:\t "  + zahirahScore + " \tB");
+Console.WriteLine("Jeong:\t\t "  + jeongScore + " \tA");

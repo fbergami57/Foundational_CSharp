@@ -1,0 +1,15 @@
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\FormatedOutputEscaped\FormatedOutputEscaped\bin\Debug\net10.0\FormatedOutputEscaped.exe
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\FormatedOutputEscaped\FormatedOutputEscaped\bin\Debug\net10.0\FormatedOutputEscaped.deps.json
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\FormatedOutputEscaped\FormatedOutputEscaped\bin\Debug\net10.0\FormatedOutputEscaped.runtimeconfig.json
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\FormatedOutputEscaped\FormatedOutputEscaped\bin\Debug\net10.0\FormatedOutputEscaped.dll
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\FormatedOutputEscaped\FormatedOutputEscaped\bin\Debug\net10.0\FormatedOutputEscaped.pdb
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\FormatedOutputEscaped\FormatedOutputEscaped\obj\Debug\net10.0\FormatedOutputEscaped.GeneratedMSBuildEditorConfig.editorconfig
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\FormatedOutputEscaped\FormatedOutputEscaped\obj\Debug\net10.0\FormatedOutputEscaped.AssemblyInfoInputs.cache
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\FormatedOutputEscaped\FormatedOutputEscaped\obj\Debug\net10.0\FormatedOutputEscaped.AssemblyInfo.cs
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\FormatedOutputEscaped\FormatedOutputEscaped\obj\Debug\net10.0\FormatedOutputEscaped.csproj.CoreCompileInputs.cache
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\FormatedOutputEscaped\FormatedOutputEscaped\obj\Debug\net10.0\FormatedOutputEscaped.sourcelink.json
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\FormatedOutputEscaped\FormatedOutputEscaped\obj\Debug\net10.0\FormatedOutputEscaped.dll
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\FormatedOutputEscaped\FormatedOutputEscaped\obj\Debug\net10.0\refint\FormatedOutputEscaped.dll
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\FormatedOutputEscaped\FormatedOutputEscaped\obj\Debug\net10.0\FormatedOutputEscaped.pdb
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\FormatedOutputEscaped\FormatedOutputEscaped\obj\Debug\net10.0\FormatedOutputEscaped.genruntimeconfig.cache
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\FormatedOutputEscaped\FormatedOutputEscaped\obj\Debug\net10.0\ref\FormatedOutputEscaped.dll
