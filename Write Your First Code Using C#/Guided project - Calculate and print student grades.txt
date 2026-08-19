@@ -526,4 +526,40 @@ In this task, you'll run the code and verify that the output is correct.
 		Jeong:      95.4    A
 		
 	If your code displays different results, you'll need to review your code to find your error and make updates. Run the code again to see if you've fixed the problem. Continue updating and running your code until your code produces the expected results.
+==================================
+Unit 6 of 7
+
+Module assessment
+200 XP
+3 minutes
+Check your knowledge
+
+1. What does the following code accomplish? var value = (int) dividend / (int) divisor;
+
+	Casts the operands to truncate the result.***
+	Declares an explicitly typed int variable.
+	Casts the operands to prevent truncating the result.
 	
+2. What does the $ symbol do when used in a string in C#?
+
+	It allows you to use string interpolation to include variables in the string.***
+	It indicates that the string is a regular expression.
+	It indicates that the string is a verbatim string literal.
+	
+3. What is wrong with the following code? int sophiaSum; Console.WriteLine("Sophia: " + sophiaSum);
+
+	sophiaSum isn't initialized before use.***
+	sophiaSum isn't implicitly typed to a string.
+	sophiaSum should use the var keyword.
+==================================
+Unit 7 of 7
+
+Summary
+Completed
+100 XP
+1 minute
+Your goal was to build an application that takes the assignment scores for students in a class, calculates their grade, and displays the results.
+
+To accomplish this, you declared and assigned values to variables of different data types, performed numeric operations, and used type casting to achieve accurate results. You also used Console.WriteLine() and character escape sequences to format the output.
+
+By breaking the problem down, you were able to build a solution using the skills you learned in the previous modules. Congratulations on developing a structured application!
