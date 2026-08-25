@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\CalculateFinalGDA\\CalculateFinalGSP\\CalculateFinalGSP.csproj",
-      "projectName": "CalculateFinalGSP",
-      "projectPath": "C:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\CalculateFinalGDA\\CalculateFinalGSP\\CalculateFinalGSP.csproj",
+      "projectUniqueName": "C:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\CalculateFinalGDA\\CalculateFinalGSP\\CalculateFinalGSA.csproj",
+      "projectName": "CalculateFinalGSA",
+      "projectPath": "C:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\CalculateFinalGDA\\CalculateFinalGSP\\CalculateFinalGSA.csproj",
       "packagesPath": "C:\\Users\\fabio.bergami\\.nuget\\packages\\",
       "outputPath": "C:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\CalculateFinalGDA\\CalculateFinalGSP\\obj\\",
       "projectStyle": "PackageReference",

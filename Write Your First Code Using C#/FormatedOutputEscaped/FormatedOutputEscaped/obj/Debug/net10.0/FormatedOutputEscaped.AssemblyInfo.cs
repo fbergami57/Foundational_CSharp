@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FormatedOutputEscaped")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc0491433e1abf07366cfbf6ea4ca9bca205c0ac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9bc540c4896056c650a11675973480a86e50031f")]
 [assembly: System.Reflection.AssemblyProductAttribute("FormatedOutputEscaped")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FormatedOutputEscaped")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
