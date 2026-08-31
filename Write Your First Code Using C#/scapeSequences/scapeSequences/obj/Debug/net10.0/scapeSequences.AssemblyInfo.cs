@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("scapeSequences")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+035b06aafdcbc4e25de0e54259818afd5b7759f9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cdf709ad475b71d507a19ef1126eab30069e4953")]
 [assembly: System.Reflection.AssemblyProductAttribute("scapeSequences")]
 [assembly: System.Reflection.AssemblyTitleAttribute("scapeSequences")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
