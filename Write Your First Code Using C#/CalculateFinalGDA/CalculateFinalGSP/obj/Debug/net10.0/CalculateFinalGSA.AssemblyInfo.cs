@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalculateFinalGSA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cdf709ad475b71d507a19ef1126eab30069e4953")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b044c655245cbd576e92614723d6d8a82f6000a8")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalculateFinalGSA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalculateFinalGSA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

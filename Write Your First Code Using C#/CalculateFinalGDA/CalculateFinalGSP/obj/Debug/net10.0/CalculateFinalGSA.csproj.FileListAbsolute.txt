@@ -1,0 +1,15 @@
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\CalculateFinalGDA\CalculateFinalGSP\bin\Debug\net10.0\CalculateFinalGSA.exe
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\CalculateFinalGDA\CalculateFinalGSP\bin\Debug\net10.0\CalculateFinalGSA.deps.json
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\CalculateFinalGDA\CalculateFinalGSP\bin\Debug\net10.0\CalculateFinalGSA.runtimeconfig.json
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\CalculateFinalGDA\CalculateFinalGSP\bin\Debug\net10.0\CalculateFinalGSA.dll
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\CalculateFinalGDA\CalculateFinalGSP\bin\Debug\net10.0\CalculateFinalGSA.pdb
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\CalculateFinalGDA\CalculateFinalGSP\obj\Debug\net10.0\CalculateFinalGSA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\CalculateFinalGDA\CalculateFinalGSP\obj\Debug\net10.0\CalculateFinalGSA.AssemblyInfoInputs.cache
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\CalculateFinalGDA\CalculateFinalGSP\obj\Debug\net10.0\CalculateFinalGSA.AssemblyInfo.cs
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\CalculateFinalGDA\CalculateFinalGSP\obj\Debug\net10.0\CalculateFinalGSA.csproj.CoreCompileInputs.cache
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\CalculateFinalGDA\CalculateFinalGSP\obj\Debug\net10.0\CalculateFinalGSA.sourcelink.json
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\CalculateFinalGDA\CalculateFinalGSP\obj\Debug\net10.0\CalculateFinalGSA.dll
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\CalculateFinalGDA\CalculateFinalGSP\obj\Debug\net10.0\refint\CalculateFinalGSA.dll
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\CalculateFinalGDA\CalculateFinalGSP\obj\Debug\net10.0\CalculateFinalGSA.pdb
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\CalculateFinalGDA\CalculateFinalGSP\obj\Debug\net10.0\CalculateFinalGSA.genruntimeconfig.cache
+C:\Squad_1\Learning\Foundational_CSharp\Write Your First Code Using C#\CalculateFinalGDA\CalculateFinalGSP\obj\Debug\net10.0\ref\CalculateFinalGSA.dll

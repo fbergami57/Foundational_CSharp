@@ -87,4 +87,53 @@ Use the following steps to prepare for the Guided project exercises:
 		int course3Credit = 4;
 		int course4Credit = 4;
 		int course5Credit = 3;
+==================================
+Unit 3 of 8	
+
+Exercise - Store the numeric grade values for each course
+Completed
+100 XP
+10 minutes
+In this exercise, you'll begin setting up variables needed to calculate a student's GPA. Let's get started.
+
+Important
+
+You need to have completed the Setup instructions in the previous unit, Prepare, before you begin this Exercise.
+
+Create variables to store the grade values
+In this task, you'll identify the numeric equivalents for the student's earned letter grade. Then you'll declare variables to store the numeric grade value for each class. The numeric equivalents are represented as whole numbers, so you'll be using the Integer data type to store the values.
+
+	1.Ensure that you have the C# Code Editor(https://microsoftlearning.github.io/c-sharp-minor) open, and that you have the variables prepared with the student's name, course names, and credit hours.
+
+	In the Prepare unit for this Guided project module, the Setup instructions have you copy student course information into the editor. If necessary, go back and complete the Setup instructions.
 	
+	2.Review the following letter grade numeric equivalent values A = 4 grade points B = 3 grade points
+	
+	3.Scroll down to the bottom of your code and create a new blank line.
+	
+	4.To declare an Integer variable for each numeric grade value, enter the following code:
+		
+		C#
+		int gradeA = 4;
+		int gradeB = 3;
+	
+	Notice fixed values are used to represent the numeric grades. This technique helps make your code easy to understand and help to prevent typos if you need to enter different grades repeatedly. Values for grades C, D, and F are omitted for now since they're unused.
+	
+	5.Review the student's grades for each course:
+	
+		Output
+		Course			    Grade		
+		English 101		     A
+		Algebra 101		     B
+		Biology 101		     B
+		Computer Science I	 B
+		Psychology 101	     A
+	
+	6.To create variables that will store the grades for each course, enter the following code:
+	
+		C#
+		int course1Grade = gradeA;
+		int course2Grade = gradeB;
+		int course3Grade = gradeB;
+		int course4Grade = gradeB;
+		int course5Grade = gradeA;
