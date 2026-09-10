@@ -137,3 +137,87 @@ In this task, you'll identify the numeric equivalents for the student's earned l
 		int course3Grade = gradeB;
 		int course4Grade = gradeB;
 		int course5Grade = gradeA;
+	
+	7.To display the course names along with the numeric grade, enter the following code:
+	
+		C#
+		Console.WriteLine($"{course1Name} {course1Grade}");
+		Console.WriteLine($"{course2Name} {course2Grade}");
+		Console.WriteLine($"{course3Name} {course3Grade}");
+		Console.WriteLine($"{course4Name} {course4Grade}");
+		Console.WriteLine($"{course5Name} {course5Grade}");
+	
+	8.In the C# Code Editor, to run your code, press the ▶️ Run button.
+	
+	Your application's output should match the following output:
+	
+		Output
+		English 101 4
+		Algebra 101 3
+		Biology 101 3
+		Computer Science I 3
+		Psychology 101 4
+	
+	If your output doesn't match, be sure to check your variable names.
+	
+	9.Take a moment to consider the current output and the final output of your application.
+	
+	In the final output of your application, you want to display the class name, grade, and credit hours. This is a good time to add the credit hours into your print statements.
+	
+	10.To add the credit hours for each class to the print statements, update your code as follows:
+	
+		C#
+		Console.WriteLine($"{course1Name} {course1Grade} {course1Credit}");
+		Console.WriteLine($"{course2Name} {course2Grade} {course2Credit}");
+		Console.WriteLine($"{course3Name} {course3Grade} {course3Credit}");
+		Console.WriteLine($"{course4Name} {course4Grade} {course4Credit}");
+		Console.WriteLine($"{course5Name} {course5Grade} {course5Credit}");
+	
+	Check your work
+	
+	In this task, you'll run the code and verify the output is correct.
+	
+	1.In the C# Code Editor, select the ▶️ Run button.
+	
+	2.Review your output and verify that the course names, grades, and credit hours are all correct:
+	
+		Output
+		English 101 4 3
+		Algebra 101 3 3
+		Biology 101 3 4
+		Computer Science I 3 4
+		Psychology 101 4 3
+	
+	If your code displays different results, you'll need to review your code to find your error and make updates. Run the code again to see if you've fixed the problem. Continue updating and running your code until your code produces the expected results.
+	
+	Important
+
+	Be sure not to delete any of the code you've written so far. You'll build on this code in the next exercise.
+==================================
+Unit 4 of 8
+Exercise - Calculate the sums of credit hours and grade points
+Completed
+100 XP
+10 minutes
+In this exercise, you'll calculate and store the total number of credit hours and the total grade points earned for each course. These values will later be used to calculate the GPA. Since both the credit hours and grade values are represented as whole numbers, you'll store the sums using the Integer data type.
+
+Create variables to store the average
+
+Recall that to calculate a student's GPA, you need the total number of credit hours, and the total number of grade points earned. The grade points earned for a course is equal to the product of the number of credit hours for that course and numeric grade value earned. For example:
+
+Output
+Course          Credit  Credit Hours    Grade Points
+English 101     4		3               12
+
+	1.In the C# Code Editor, locate the Console.WriteLine() statements that are used to display the course information.
+	
+	2.Create a blank code line above the Console.WriteLine() statements.
+	
+	3.On the blank code line that you created, to create a variable that will store the total number of credit hours, enter the following code:
+	
+		C#
+		int totalCreditHours = 0;
+	
+		Notice that the total is initialized to 0. This initialization allows you to increment the sum while keeping your code organized.
+
+	
