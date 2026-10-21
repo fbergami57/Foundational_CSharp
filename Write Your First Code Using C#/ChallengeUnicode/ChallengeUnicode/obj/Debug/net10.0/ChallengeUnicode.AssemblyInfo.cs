@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChallengeUnicode")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c90b68adb5c525f48208198acffd3b8c68d0a9ae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d9fbea66393e38c0223070d3093c8a5daa8a064")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChallengeUnicode")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChallengeUnicode")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
