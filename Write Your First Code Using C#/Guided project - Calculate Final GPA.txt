@@ -361,4 +361,67 @@ Calculate the final GPA
 		C#
 		decimal gradePointAverage = totalGradePoints/totalCreditHours;
 		
+	5.Take a moment to consider the data types you're dividing.
+	
+	When you want the result of a division calculation to be a decimal value, either the dividend or divisor must be of type decimal (or both). When you use integer variables in the calculation, you need to use the cast operator to temporarily convert an integer to a decimal.
+	
+	6.To retrieve a decimal value from the division, update your code as follows:
+	
+		C#
+		decimal gradePointAverage = (decimal) totalGradePoints/totalCreditHours;
+	
+	7.Navigate to the last Console.WriteLine() statement and create a new blank code line after the last statement.
+	
+	8.To display the final GPA, enter the following code:
+	
+		C#
+		Console.WriteLine($"Final GPA: {gradePointAverage}");
+	
+	9.To view the results, select Run.
+	
+	Compare your application's output with the following output:
+	
+		C#
+		English 101 4 3
+		Algebra 101 3 3
+		Biology 101 3 4
+		Computer Science I 3 4
+		Psychology 101 4 3
+		Final GPA: 3.3529411764705882352941176471
+	
+	Format the decimal output
+	You might have noticed that decimal result contains many more digits than a standard GPA. In this task, you'll manipulate the decimal GPA value so that only three digits are displayed.
+
+	Ultimately, you want to display the first digit of the GPA, a decimal point, followed by the first two digits after the decimal. You can achieve this format by using variables to store the leading and trailing digits respectively, and then printing them together using Console.WriteLine(). You can use the math operations you learned to extract the leading and trailing digits.
+	
+	 Note
+
+	As you continue your developer journey, you'll discover built-in operations that can automatically apply formatting to your data. For now, this is a great opportunity to solidify what you've learned so far.
+
+	1.Navigate to the top of the Console.WriteLine() statements.
+	
+	2.Create a blank code line above the Console.WriteLine() statements.
+	
+	3.On the blank code line that you created, to initialize a variable that will store the leading digit of the GPA, enter the following code:
+	
+		C#
+		int leadingDigit = (int) gradePointAverage;
+	
+	Notice that to extract the leading digit from the decimal, you're casting it to an integer value. This is a simple and reliable method because casting a fractional value will never round up the result. Meaning if the GPA is 2.99, casting the decimal value to an int will result in 2.
+	
+	Suppose gradePointAverage = 2.994573 Then, performing the operation on these values would result in the following steps:
+	
+		C#
+		int firstDigit = (int) (2.994573 * 10) % 10;
+		int firstDigit = 29 % 10;
+		int firstDigit = 9;
+	
+	And the resulting value of firstDigit is 9.
+
+	Next, you'll apply the same operation to retrieve the second digit.
+	
+	5.On a new blank code line, enter the following code:
+	
+		C#
+		
 	
