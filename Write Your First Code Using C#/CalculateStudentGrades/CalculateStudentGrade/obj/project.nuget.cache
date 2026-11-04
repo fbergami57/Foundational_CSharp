@@ -1,12 +1,18 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "Q/SzrByc+s0=",
-=======
-  "dgSpecHash": "Xaa/bSgJ+rw=",
->>>>>>> d74404ed09d4f6205923ca4dddee69641c217d74
   "success": true,
-  "projectFilePath": "D:\\Cursos\\C#\\Foundational_CSharp\\Write Your First Code Using C#\\CalculateStudentGrades\\CalculateStudentGrade\\CalculateStudentGrade.csproj",
+  "projectFilePath": "C:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\CalculateStudentGrades\\CalculateStudentGrade\\CalculateStudentGrade.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Problem reading the cache file C:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\CalculateStudentGrades\\CalculateStudentGrade\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "C:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\CalculateStudentGrades\\CalculateStudentGrade\\CalculateStudentGrade.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\CalculateStudentGrades\\CalculateStudentGrade\\CalculateStudentGrade.csproj",
+      "targetGraphs": []
+    }
+  ]
 }

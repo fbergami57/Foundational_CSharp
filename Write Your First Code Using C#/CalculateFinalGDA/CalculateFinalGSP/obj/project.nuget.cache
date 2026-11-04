@@ -1,12 +1,18 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "LzEf9QU+DVk=",
-=======
-  "dgSpecHash": "D6LvkTrPiSo=",
->>>>>>> d74404ed09d4f6205923ca4dddee69641c217d74
   "success": true,
-  "projectFilePath": "D:\\Cursos\\C#\\Foundational_CSharp\\Write Your First Code Using C#\\CalculateFinalGDA\\CalculateFinalGSP\\CalculateFinalGSA.csproj",
+  "projectFilePath": "C:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\CalculateFinalGDA\\CalculateFinalGSP\\CalculateFinalGSA.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Problem reading the cache file C:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\CalculateFinalGDA\\CalculateFinalGSP\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "C:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\CalculateFinalGDA\\CalculateFinalGSP\\CalculateFinalGSA.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\CalculateFinalGDA\\CalculateFinalGSP\\CalculateFinalGSA.csproj",
+      "targetGraphs": []
+    }
+  ]
 }
