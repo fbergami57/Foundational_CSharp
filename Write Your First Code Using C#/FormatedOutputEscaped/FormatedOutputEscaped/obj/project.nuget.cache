@@ -1,8 +1,12 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "yOUta9oIcRM=",
+=======
+  "dgSpecHash": "7LlW2UKuH/Y=",
+>>>>>>> d74404ed09d4f6205923ca4dddee69641c217d74
   "success": true,
-  "projectFilePath": "C:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\FormatedOutputEscaped\\FormatedOutputEscaped\\FormatedOutputEscaped.csproj",
+  "projectFilePath": "D:\\Cursos\\C#\\Foundational_CSharp\\Write Your First Code Using C#\\FormatedOutputEscaped\\FormatedOutputEscaped\\FormatedOutputEscaped.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

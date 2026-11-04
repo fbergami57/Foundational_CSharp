@@ -28,24 +28,21 @@ totalCreditHours += course4Credit;
 totalCreditHours += course5Credit;
 
 int totalGradePoints = 0;
-totalGradePoints += course1Grade * course1Credit;
-totalGradePoints += course2Grade * course2Credit;
-totalGradePoints += course3Grade * course3Credit;
-totalGradePoints += course4Grade * course4Credit;
-totalGradePoints += course5Grade * course5Credit;
+totalGradePoints += course1Credit * course1Grade;
+totalGradePoints += course2Credit * course2Grade;
+totalGradePoints += course3Credit * course3Grade;
+totalGradePoints += course4Credit * course4Grade;
+totalGradePoints += course5Credit * course5Grade;
 
-//Console.WriteLine("Student: " +studentName + "\n");
-//Console.WriteLine("Course\t\t\tGrade\tCredit Hours");
-//Console.WriteLine($"{totalGradePoints} {totalCreditHours}"); //removed module 5 of 8
-decimal gradePointAverage = (decimal) totalGradePoints / totalCreditHours;
+decimal gradePointAverage = (decimal) totalGradePoints/totalCreditHours;
 
 int leadingDigit = (int) gradePointAverage;
 int firstDigit = (int) (gradePointAverage * 10 ) % 10;
-int secondDigit = (int) (gradePointAverage * 100) % 10;
+int secondDigit = (int) (gradePointAverage * 100 ) % 10;
 
 Console.WriteLine($"Student: {studentName}\n");
 Console.WriteLine("Course\t\t\tGrade\tCredit Hours");
-   
+
 Console.WriteLine($"{course1Name}\t\t{course1Grade}\t\t{course1Credit}");
 Console.WriteLine($"{course2Name}\t\t{course2Grade}\t\t{course2Credit}");
 Console.WriteLine($"{course3Name}\t\t{course3Grade}\t\t{course3Credit}");
@@ -53,6 +50,3 @@ Console.WriteLine($"{course4Name}\t{course4Grade}\t\t{course4Credit}");
 Console.WriteLine($"{course5Name}\t\t{course5Grade}\t\t{course5Credit}");
 
 Console.WriteLine($"\nFinal GPA:\t\t{leadingDigit}.{firstDigit}{secondDigit}");
-
-
-

@@ -1,8 +1,12 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "VQPKBUMq+78=",
+=======
+  "dgSpecHash": "rX72egqe6Pc=",
+>>>>>>> d74404ed09d4f6205923ca4dddee69641c217d74
   "success": true,
-  "projectFilePath": "C:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\Challenge\\challenge\\challenge.csproj",
+  "projectFilePath": "D:\\Cursos\\C#\\Foundational_CSharp\\Write Your First Code Using C#\\challenge\\challenge\\challenge.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

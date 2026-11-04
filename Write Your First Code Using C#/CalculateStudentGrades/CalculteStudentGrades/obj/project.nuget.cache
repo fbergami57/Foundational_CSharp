@@ -1,8 +1,12 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "E+I4pK7t2os=",
+=======
+  "dgSpecHash": "kaEyfiWTMno=",
+>>>>>>> d74404ed09d4f6205923ca4dddee69641c217d74
   "success": true,
-  "projectFilePath": "C:\\Squad_1\\Learning\\Foundational_CSharp\\Write Your First Code Using C#\\CalculateStudentGrades\\CalculteStudentGrades\\CalculteStudentGrades.csproj",
+  "projectFilePath": "D:\\Cursos\\C#\\Foundational_CSharp\\Write Your First Code Using C#\\CalculateStudentGrades\\CalculteStudentGrades\\CalculteStudentGrades.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
